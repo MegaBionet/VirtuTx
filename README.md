@@ -1,4 +1,4 @@
-================================================================================ VirtuTx: A Generative AI Platform for Zero-Shot Functional Genomics README.txt
+=================================================== VirtuTx: A Generative AI Platform for Zero-Shot Functional Genomics README.txt
 This file provides the complete, step-by-step workflow to run the VirtuTx project.
 
 PART I: SETUP AND DATA PREPARATION
@@ -103,4 +103,4 @@ EXAMPLE COMMAND FOR SYNTHETIC LETHALITY:
 
 OUTPUT: The script will create the specified output directory and save the
 ranked results CSV file and two publication-quality figures inside it.
-================================================================================ END OF WORKFLOW
+=============================================================== END OF WORKFLOW
